@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name="Amina Ai",
+    name="amina_ai",
     version="1.0",
-    description="This module is for Amina Ai",
+    description="Amina Ai module",
     author="SAM OCHU",
-    packages=["Amina Ai"],
+    packages=["amina_ai"],  # Note the package name here
 )
